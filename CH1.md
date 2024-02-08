@@ -14,7 +14,7 @@
 - The weakest link in the security of an IT infrastructure
 - IT security policy framework and data classification standard
 
-### Information Systems Security (1 of 3)
+### Information Systems Security
 
 - **Internet:**
   - A worldwide network with approximately 5 billion users
@@ -23,8 +23,6 @@
 
 - **World Wide Web:**
   - A system defining how documents and resources relate across a network of computers
-
-### Information Systems Security (2 of 3)
 
 - **First American Financial Corporation, 2019:**
   - 885 million users had sensitive personal financial data leaked
@@ -36,8 +34,6 @@
 ### Cyberspace: The New Frontier
 
 ### TCP/IP Communications Are in Cleartext
-
-### Information Systems Security (3 of 3)
 
 - **Internet of Things (IoT):**
   - Connects personal devices, home devices, and vehicles to the Internet
@@ -83,14 +79,12 @@
 - **Availability:**
   - Information is accessible by authorized users whenever they request it
 
-### Confidentiality (1 of 2)
+### Confidentiality
 
 - **Confidential Information Includes:**
   - Private data of individuals
   - Intellectual property of businesses
   - National security for countries and governments
-
-### Confidentiality (2 of 2)
 
 - **Cryptography:**
   - Practice of hiding data from unauthorized users
@@ -336,7 +330,7 @@
 - Vulnerability assessment/management policy
 - Threat assessment and monitoring policy
 
-### Data Classification Standards (1 of 2)
+### Data Classification Standards
 
 - **Private Data:**
   - Data about people that must be kept private
@@ -346,8 +340,6 @@
 
 - **Public Domain Data:**
   - Information or data shared with the public
-
-### Data Classification Standards (2 of 2)
 
 **U.S. Federal Government Data Classification Standards:**
 - Top Secret
