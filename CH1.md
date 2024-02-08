@@ -2,8 +2,6 @@
 
 ## Chapter 1: Information Systems Security
 
-**Copyright:** © 2023 by Jones & Bartlett Learning, LLC an Ascend Learning Company. [www.jblearning.com](www.jblearning.com)
-
 ### Learning Objective(s) and Key Concepts
 
 **Learning Objective(s):**
