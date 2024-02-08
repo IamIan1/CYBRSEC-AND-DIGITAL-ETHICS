@@ -65,7 +65,7 @@
 - Business-to-consumer (B2C) service delivery model
 - Anything as a Service (AaaS) IoT applications
 
-### Evolution from Brick and Mortar to E-Commerce (1 of 2)
+### Evolution from Brick and Mortar to E-Commerce
 
 - E-commerce
   - Sale of goods and services on the Internet
@@ -75,9 +75,6 @@
   - Businesses conduct sales with other businesses
 - Payment Card Industry Data Security Standard (PCI DSS)
   - Protects private customer data
-
-### Evolution from Brick and Mortar to E-Commerce (2 of 2)
-
 - Internet business challenges:
   - Growing the business through the Internet
   - Changing an existing conventional business into an e-business
@@ -124,15 +121,12 @@
 - Many users from multiple domains found uses for mobile applications
 - Medical applications were a good fit for mobile applications
 
-### IP Mobile Communications (1 of 3)
+### IP Mobile Communications
 
 - 4G and 5G networks provide true IP communications
 - Mobile IP enables users to:
   - Move between local area network (LAN) segments and stay connected without interruption
   - Maintain a connection to the network as long as the mobile device stays within network coverage
-
-### IP Mobile Communications (2 of 3)
-
 - Mobile node (MN)
   - Connects to FA
 - Home agent (HA)
@@ -144,8 +138,6 @@
 - Correspondent node (CN)
   - Sends message to MN
 
-### IP Mobile Communications (3 of 3)
-
 ### New Challenges Created by the IoT
 
 - Security
@@ -154,15 +146,12 @@
 - Legal and regulatory compliance
 - E-commerce and economic development issues
 
-### Security (1 of 2)
+### Security 
 
 - IoT devices, such as sensors or consumer items, deployed in large quantities
 - IoT devices are ubiquitous and can have a wide reach into the user or household population
 - IoT devices not maintained or updated allow vulnerabilities
 - IoT device upgrades can be difficult to distribute and deploy
-
-### Security (2 of 2)
-
 - No owner visibility of how many IoT devices connect to the Internet
 - IoT devices usually not physically secure
 - Environmental IoT devices capture readings and measurements in the open
@@ -175,29 +164,22 @@
   - Ability for a user to provide consent to a manufacturer’s or application service provider’s privacy policy statement
   - Determine the domain of privacy
 
-### Interoperability and Standards (1 of 2)
-
+### Interoperability and Standards
 - Internet Engineering Task Force (IETF) ensures interoperability and standards can be pursued for IoT solutions
 - Interoperability has significant financial impacts if not properly addressed
 - Goal is to bring down the cost of IoT devices and supporting applications so they are affordable
-
-### Interoperability and Standards (2 of 2)
-
 - Some manufacturers want to design and deploy proprietary IoT devices and solutions
 - Cost factors to implement functional, operational, technical, and security capabilities into IoT devices and applications
 - Time-to-market risk
 - Technology outdated risk
 - A void in interoperability and standards for IoT devices can create an environment of bad IoT devices
 
-### Legal and Regulatory Compliance (1 of 2)
+### Legal and Regulatory Compliance
 
 - Properly handling and protecting sensitive data, and ensuring its confidentiality
 - Privacy data is subject to the privacy laws of the state you live in as well as the state that the IoT hosting company resides in
 - IoT vendor or solutions provider required to adhere to security control requirements and data protection laws
 - Current liability laws and protection may or may not address IoT devices connected to the public Internet
-
-### Legal and Regulatory Compliance (2 of 2)
-
 - Who is collecting data?
 - Who is collecting behavior patterns?
 - Are they selling this data?
