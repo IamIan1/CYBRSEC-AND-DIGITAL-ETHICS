@@ -1,6 +1,4 @@
-**Title: Comprehensive Study Material on Information Systems Security**
-
-**Chapter 1: Information Systems Security**
+***Chapter 1: Information Systems Security***
 
 **Learning Objective(s) and Key Concepts:**
 - **Objective(s):** Explain information systems security and its impact on individuals and businesses.
